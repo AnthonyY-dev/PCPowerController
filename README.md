@@ -64,7 +64,7 @@
 
 ## Youtube
 
-- Here is a youtube video displaying my project: `WIP`
+- Here is a youtube video displaying my project: https://youtu.be/HdTAr4uzxLw
 
 ## License
 
