@@ -2,7 +2,7 @@
 
 ## Overview
 
-**PCController** is an Arduino-based project designed to control your PC's power state using a keypad, an LCD display, and a relay module. The system allows users to turn their PC on or off by entering a predefined PIN code. The project is straightforward and doesn't require any resistors, making it a simple yet effective solution for PC control.
+**PCController** is an Arduino-based project designed to control your PC's power state using a keypad, an LCD display, and a relay module. The system allows users to turn their PC on or off by entering a predefined PIN code. The project is straightforward and doesn't require any resistors, making it a simple yet effective solution for PC control. Personally, I used this to be able to remotely start up my PC after a power outage, and this can be adapted to servers to start up remotely.
 
 ## Features
 
